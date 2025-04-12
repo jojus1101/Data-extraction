@@ -1,0 +1,6 @@
+id,name,age,email,signup_date
+1,ANONYMIZED,34.0,alice@example.com,2021-05-01
+2,ANONYMIZED,45.0,bob.j@example.com,2020-11-23
+3,ANONYMIZED,,charlie@rose.io,2019-08-15
+4,ANONYMIZED,29.0,,2022-02-10
+5,ANONYMIZED,53.0,edward@notreal.com,

@@ -1,0 +1,6 @@
+id,name,age,email,signup_date
+1,Alice Smith,34,alice@example.com,2021-05-01
+2,Bob Johnson,45,bob.j@example.com,2020-11-23
+3,Charlie Rose,,charlie@rose.io,2019-08-15
+4,Diana Prince,29,,2022-02-10
+5,Edward Norton,53,edward@notreal.com,

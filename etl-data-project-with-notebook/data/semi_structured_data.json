@@ -1,0 +1,38 @@
+[
+  {
+    "userId": "u001",
+    "profile": {
+      "name": "Laura Palmer",
+      "email": "laura@twinpeaks.com",
+      "location": "Washington"
+    },
+    "activity": {
+      "last_login": "2023-12-01",
+      "posts": 24
+    }
+  },
+  {
+    "userId": "u002",
+    "profile": {
+      "name": "Dale Cooper",
+      "email": "dale@fbi.gov",
+      "location": "Washington"
+    },
+    "activity": {
+      "last_login": "2024-01-15",
+      "posts": 57
+    }
+  },
+  {
+    "userId": "u003",
+    "profile": {
+      "name": "Audrey Horne",
+      "email": null,
+      "location": "Washington"
+    },
+    "activity": {
+      "last_login": "2023-07-20",
+      "posts": 12
+    }
+  }
+]
